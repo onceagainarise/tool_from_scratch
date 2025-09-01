@@ -1,0 +1,8 @@
+langgraph
+langchain-groq
+langchain-core
+asyncio
+typing
+langchain-community
+langchain-tavily
+python-dotenv
